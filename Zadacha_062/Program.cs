@@ -6,7 +6,10 @@ void PrintMatrix(int[,] arr)
     {
         for (int j = 0; j < arr.GetLength(1); j++)
         {
-            System.Console.Write("[" + arr[i, j] + "] ");
+            if (arr[i, j] < 10)
+                System.Console.Write("[" + 0 + arr[i, j] + "] ");
+            else
+                System.Console.Write("[" + arr[i, j] + "] ");
         }
         System.Console.WriteLine();
     }
