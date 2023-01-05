@@ -1,0 +1,15 @@
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\bin\Debug\net6.0\Zadacha_054.exe
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\bin\Debug\net6.0\Zadacha_054.deps.json
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\bin\Debug\net6.0\Zadacha_054.runtimeconfig.json
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\bin\Debug\net6.0\Zadacha_054.dll
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\bin\Debug\net6.0\Zadacha_054.pdb
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\obj\Debug\net6.0\Zadacha_054.csproj.AssemblyReference.cache
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\obj\Debug\net6.0\Zadacha_054.GeneratedMSBuildEditorConfig.editorconfig
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\obj\Debug\net6.0\Zadacha_054.AssemblyInfoInputs.cache
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\obj\Debug\net6.0\Zadacha_054.AssemblyInfo.cs
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\obj\Debug\net6.0\Zadacha_054.csproj.CoreCompileInputs.cache
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\obj\Debug\net6.0\Zadacha_054.dll
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\obj\Debug\net6.0\refint\Zadacha_054.dll
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\obj\Debug\net6.0\Zadacha_054.pdb
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\obj\Debug\net6.0\Zadacha_054.genruntimeconfig.cache
+E:\_УЧЁБА\3. Знакомство с яз прог. Лекция 1\C# Тема 3\Seminar_8_Homework\Zadacha_054\obj\Debug\net6.0\ref\Zadacha_054.dll
