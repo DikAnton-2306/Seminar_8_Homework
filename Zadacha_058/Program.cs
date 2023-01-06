@@ -9,9 +9,11 @@ void ResultOfMultiplicationTwoMatrix(int[,]first, int [,] second, int [,] produc
         for (int j = 0; j < product.GetLength(1); j++)
         {
             int sum = 0;
-            sum += first[i, j] * second[i, j];
+            for (int k = 0; k < first.GetLength(1); k++)
+            {
+                sum += first[i, k] * second[k, j];
+            }
             product[i, j] = sum; 
-
         }
     }
 }
